@@ -38,6 +38,19 @@
     "versionFirst": "6.0.1",
     "siteFonts": [],
     "imageResize": true,
+    "chatbutton": {},
+    "favicon": "@PROJECT_PATH@/assets/images/98040939-2490394637919382-8348167949445496832-n.jpg-128x128.png",
+    "mbrsiteDomain": "2j9ppqb3hi",
+    "usedWebp": false,
+    "cssOptimize": false,
+    "lazyLoad": false,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false,
+    "pwa-switcher": false,
     "uniqCompNum": 1,
     "versionPublish": "6.0.1"
   },
@@ -45,7 +58,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "Pinturas Indupin",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
