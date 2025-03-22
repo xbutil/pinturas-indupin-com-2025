@@ -779,7 +779,7 @@ a {
   }
 }
 .cid-uG91ZR7Jng {
-  background-image: url("../../../assets/images/mbr-1920x1920.jpg");
+  background-color: #000000;
 }
 .cid-uG91ZR7Jng .mbr-fallback-image.disabled {
   display: none;
@@ -792,6 +792,9 @@ a {
   height: 100%;
   position: absolute;
   top: 0;
+}
+.cid-uG91ZR7Jng .ax-neon-blue {
+  text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #0073e6, 0 0 20px #0073e6, 0 0 25px #0073e6, 0 0 30px #0073e6, 0 0 35px #0073e6;
 }
 .cid-uG91ZR7Jng .image-wrap img {
   width: 100%;
@@ -824,4 +827,8 @@ a {
 }
 .cid-uG91ZR7Jng .content-head {
   max-width: 800px;
+}
+.cid-uG91ZR7Jng .mbr-text,
+.cid-uG91ZR7Jng .mbr-section-btn {
+  color: #edefeb;
 }
